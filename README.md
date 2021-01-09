@@ -11,6 +11,8 @@ You can pick up props (by touching (character)).
 Your goal is to kill more bosses (of course you can call it mobs)
 Picking up props makes you stronger (you are the boss as far as you are)
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+If you are a developer, of course you can modify my program. I have no objection, but please indicate the source, thank you.Of course you can also sponsor me on the homepage and give me a little reward.
+--------------------------------------------------------------------------
 This project is currently open source, under "main item unity/小蜜蜂".
 You can sponsor me (not forced)
 Alipay to this account: 15950161897（支付宝）
